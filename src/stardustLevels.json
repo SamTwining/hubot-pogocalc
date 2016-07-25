@@ -1,0 +1,84 @@
+{
+    "stardustLevels": [
+        {
+            "stardust": 200,
+            "level": 1
+        },
+        {
+            "stardust": 400,
+            "level": 3
+        },
+        {
+           "stardust": 600,
+           "level": 5
+        },
+        {
+            "stardust": 800,
+            "level": 7
+        },
+        {
+            "stardust": 1000,
+            "level": 9
+        },
+        {
+            "stardust": 1300,
+            "level": 11
+        },
+        {
+            "stardust": 1600,
+            "level": 13
+        },
+        {
+            "stardust": 1900,
+            "level": 15
+        },
+        {
+            "stardust": 2200,
+            "level": 17
+        },
+        {
+            "stardust": 2500,
+            "level": 19
+        },
+        {
+            "stardust": 3000,
+            "level": 21
+        },
+        {
+            "stardust": 3500,
+            "level": 23
+        },
+        {
+            "stardust": 4000,
+            "level": 25
+        },
+        {
+            "stardust": 4500,
+            "level": 27
+        },
+        {
+            "stardust": 5000,
+            "level": 29
+        },
+        {
+            "stardust": 6000,
+            "level": 31
+        },
+        {
+            "stardust": 7000,
+            "level": 33
+        },
+        {
+            "stardust": 8000,
+            "level": 35
+        },
+        {
+            "stardust": 9000,
+            "level": 37
+        },
+        {
+            "stardust": 10000,
+            "level": 39
+        }
+    ]
+}
