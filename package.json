@@ -1,16 +1,16 @@
 {
   "name": "hubot-pogocalc",
-  "description": "A hubnot script to calculate pokemon go IVs from user input",
+  "description": "A hubot script to retrieve pokedex information and calculate pokemon go IVs",
   "version": "0.0.0",
   "author": "SET <SamTwining@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, pokemon, go, iv, ivs, calculator, stamina, attack, defense",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-pogocalc.git"
+    "url": "git://github.com/SamTwining/hubot-pogocalc.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-pogocalc/issues"
+    "url": "https://github.com/SamTwining/hubot-pogocalc/issues"
   },
   "dependencies": {
     "underscore": "^1.8.3"
