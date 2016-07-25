@@ -1,7 +1,7 @@
 chai = require 'chai'
 expect = chai.expect
 Helper = require('hubot-test-helper');
-
+require ('coffee-script/register');
 helper = new Helper('../src/pogocalc.coffee')
 
 describe 'pogocalc', ->
